@@ -3,9 +3,6 @@
 
 **"Creating the future, one product at a time"**
 
-## 🚀 GitHub Stats
-![loliuy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=loliuy&show_icons=true&hide=prs&count_private=true&hide_title=true)
-
 ## 🛠 Skills
 ### Client-side
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
